@@ -1,6 +1,4 @@
-MADE ON: Sunday, 26th January 2020
 LAST UPDATED: Sunday, 26th January 2020
-STATUS: IN DEVELOPMENT
 
 # What is qbot?
 
