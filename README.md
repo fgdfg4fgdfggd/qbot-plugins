@@ -1,5 +1,6 @@
- [![MIT Licensed](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-
+MADE ON: Sunday, 26th January 2020
+LAST UPDATED: Sunday, 26th January 2020
+STATUS: IN DEVELOPMENT
 
 # What is qbot?
 
