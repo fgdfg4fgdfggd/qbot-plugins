@@ -1,3 +1,4 @@
+Scroll down this page for more information!
 ![qbot Plugins](https://cdn.discordapp.com/attachments/585876903261372419/671394368711819323/image0.jpg)
 
 # What is qbot?
