@@ -1,4 +1,4 @@
-LAST UPDATED: Sunday, 26th January 2020
+![qbot Plugins](https://cdn.discordapp.com/attachments/585876903261372419/671394368711819323/image0.jpg)
 
 # What is qbot?
 
