@@ -9,10 +9,12 @@ qbot is an open sourced Discord bot used for ROBLOX management, it is a bot pack
 
 # How can I add a plugin/addon to qbot?
 
-Each folder will have a plugin with a set of instructions. You'll usually see a ``instructions-for-install.md`` file and the command file which will look like ``rank.js``. If you find a plugin hard to install, you could simply join the [Discord Server](https://discord.gg/Q7m7gnW) and speak to me or someone else.
+Each folder will have a plugin with a set of instructions. You'll usually see a ``command-info.md`` file and the command file which will look like ``supercoolplugin.js``. If you find a plugin hard to install, you could simply join the [Discord Server](https://discord.gg/Q7m7gnW) and speak to myself or someone else.
+
+# Is this free?
+
+Yes! This is 100% free but I'd like to request that you do **NOT** take credit for yourself as it's just rude. You're allowed to modify the code as much as you'd like. 
 
 # Disclaimers/Notes
 
 This is not official and it's just what I use to put all my plugins in for others to use, this means you may not recieve support on the plugins as the Support Team isn't trained for this.
-
-NO PLUGINS WILL BE ADDED UNTIL THE COMMAND HANDLER FOR QBOT COMES OUT, THIS MAY BE IN VERSION 5.1!
