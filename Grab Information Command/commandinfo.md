@@ -4,6 +4,6 @@ To install, simply download the ``getinfo.js`` file and insert into your command
 
 This command will grab information of a user in your group, also giving the user ID, rank set and rank name!
 
-Credit is appreciated:
+## Credit is appreciated:
 @yogurtsyum - Overall base of command
 @TypicallyShad - Edits/functioning of command
