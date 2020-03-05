@@ -8,7 +8,7 @@ exports.run = (client, message, args) => {
         description:
           `You did not provide the \`username\` argument.\n` +
           `\n` +
-          `Usage: ${config.prefix}getinfo <username>`,
+          `Usage: ${client.config.prefix}getinfo <username>`,
         author: {
           name: message.author.tag,
           icon_url: message.author.displayAvatarURL
@@ -20,8 +20,8 @@ exports.run = (client, message, args) => {
   rbx
     .getIdFromUsername(username)
     .then(function(id) {
-      rbx.getRankNameInGroup(config.groupId, id).then(function(rank) {
-        rbx.getRankInGroup(config.groupId, id).then(function(ranknumber) {
+      rbx.getRankNameInGroup(client.config.groupId, id).then(function(rank) {
+        rbx.getRankInGroup(client.config.groupId, id).then(function(ranknumber) {
           let ranknumberset = ranknumber;
           let rankname = rank;
           message.channel.send(`${username}:${id}`);
