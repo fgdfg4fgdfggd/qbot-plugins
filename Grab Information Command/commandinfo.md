@@ -6,4 +6,5 @@ This command will grab information of a user in your group, also giving the user
 
 ## Credit is appreciated:
 @yogurtsyum - Overall base of command
+
 @TypicallyShad - Edits/functioning of command
